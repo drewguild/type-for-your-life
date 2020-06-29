@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/type-for-your-life/static/css/main.b31d2339.chunk.css",
+    "main.js": "/type-for-your-life/static/js/main.71285530.chunk.js",
+    "main.js.map": "/type-for-your-life/static/js/main.71285530.chunk.js.map",
+    "runtime-main.js": "/type-for-your-life/static/js/runtime-main.36a2d067.js",
+    "runtime-main.js.map": "/type-for-your-life/static/js/runtime-main.36a2d067.js.map",
+    "static/js/2.7b5965eb.chunk.js": "/type-for-your-life/static/js/2.7b5965eb.chunk.js",
+    "static/js/2.7b5965eb.chunk.js.map": "/type-for-your-life/static/js/2.7b5965eb.chunk.js.map",
+    "index.html": "/type-for-your-life/index.html",
+    "precache-manifest.d810248509e19435008faf28c1ca6ad1.js": "/type-for-your-life/precache-manifest.d810248509e19435008faf28c1ca6ad1.js",
+    "service-worker.js": "/type-for-your-life/service-worker.js",
+    "static/css/main.b31d2339.chunk.css.map": "/type-for-your-life/static/css/main.b31d2339.chunk.css.map",
+    "static/js/2.7b5965eb.chunk.js.LICENSE.txt": "/type-for-your-life/static/js/2.7b5965eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36a2d067.js",
+    "static/js/2.7b5965eb.chunk.js",
+    "static/css/main.b31d2339.chunk.css",
+    "static/js/main.71285530.chunk.js"
+  ]
+}
